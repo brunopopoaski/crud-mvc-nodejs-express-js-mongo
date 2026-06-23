@@ -1,0 +1,26 @@
+{
+  "name": "crud-api-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopopoaski/crud-mvc-nodejs-express-js-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/brunopopoaski/crud-mvc-nodejs-express-js-mongo/issues"
+  },
+  "homepage": "https://github.com/brunopopoaski/crud-mvc-nodejs-express-js-mongo#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.2"
+  }
+}
